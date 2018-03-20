@@ -13,6 +13,6 @@ public class Barbarian extends Character {
 		System.out.println("GENARA GENERA GERMINIAS CON GERMAN, EL GENERAL GERMANO");
 		System.out.println("You are a strong, hulky barbarian. Añadimos texto en esta linea");
 		System.out.println("You are a strong, hulky gilí, Álvaro.");
-		
+		System.out.println("RAMA USER1")
 	}
 }
