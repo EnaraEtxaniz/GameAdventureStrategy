@@ -1,4 +1,4 @@
-package game;
+﻿package game;
 
 public class Barbarian extends Character {
 
@@ -10,6 +10,7 @@ public class Barbarian extends Character {
 	public void display() {
 	// TODO Auto-generated method stub
 
+		System.out.println("GENARA GENERA GERMINIAS CON GERMAN, EL GENERAL GERMANO");
 		System.out.println("You are a strong, hulky barbarian. Añadimos texto en esta linea");
 		System.out.println("You are a strong, hulky barbarian. User 1 añade linea. Resolvemos conflicto directamente");
 		
