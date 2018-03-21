@@ -10,5 +10,6 @@ public class Goblin extends Character {
 	public void display() {
 	// TODO Auto-generated method stub
 		System.out.println("You are a nasty evil goblin.");
+		System.out.println("Baditibaditibaditibuuu")
 	}
 }
